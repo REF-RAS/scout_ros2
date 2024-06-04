@@ -9,7 +9,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://scout_description/meshes/mini_base_link.dae"/>
+        <mesh filename="package://scout_description/meshes/scout_mini/mini_base_link.dae"/>
       </geometry>
     </visual>
     <collision>
@@ -47,7 +47,7 @@
       <!-- <origin xyz="0 0 0" rpy="0 0 0" /> -->
       <origin rpy="0 0 0" xyz="-0.221 -0.225 0.0925"/>
       <geometry>
-        <mesh filename="package://scout_description/meshes/mini_wheel.dae"/>
+        <mesh filename="package://scout_description/meshes/scout_mini/mini_wheel.dae"/>
       </geometry>
     </visual>
     <collision>
@@ -73,7 +73,7 @@
       <!-- <origin xyz="0 0 0" rpy="0 0 0" /> -->
       <origin rpy="0 0 0" xyz="-0.221 -0.225 0.0925"/>
       <geometry>
-        <mesh filename="package://scout_description/meshes/mini_wheel.dae"/>
+        <mesh filename="package://scout_description/meshes/scout_mini/mini_wheel.dae"/>
       </geometry>
     </visual>
     <collision>
@@ -99,7 +99,7 @@
       <!-- <origin xyz="0 0 0" rpy="0 0 0" /> -->
       <origin rpy="0 0 0" xyz="-0.221 -0.225 0.0925"/>
       <geometry>
-        <mesh filename="package://scout_description/meshes/mini_wheel.dae"/>
+        <mesh filename="package://scout_description/meshes/scout_mini/mini_wheel.dae"/>
       </geometry>
     </visual>
     <collision>
@@ -125,7 +125,7 @@
       <!-- <origin xyz="0 0 0" rpy="0 0 0" /> -->
       <origin rpy="0 0 0" xyz="-0.221 -0.225 0.0925"/>
       <geometry>
-        <mesh filename="package://scout_description/meshes/mini_wheel.dae"/>
+        <mesh filename="package://scout_description/meshes/scout_mini/mini_wheel.dae"/>
       </geometry>
     </visual>
     <collision>
